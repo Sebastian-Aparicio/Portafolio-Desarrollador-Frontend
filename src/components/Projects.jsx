@@ -17,9 +17,9 @@ import Section from "./Section";
 import "../index.css";
 
 import SDfit from "../assets/SDfit.png";
-import Tracker from "../assets/Tracker.png";
-import Alura from "../assets/Alura.png";
-import Citas from "../assets/Citas.png";
+import Tracker from "../assets/tracker.png";
+import Alura from "../assets/alura.png";
+import Citas from "../assets/citas.png";
 
 export default function Projects() {
   const projects = [
