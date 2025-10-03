@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <p>
-        <FaCode className="footer-icon" /> Hecho por{" "}
+        <FaCode className="footer-icon" /> Desarrollado por{" "}
         <span className="highlight">Sebastian Aparicio</span>
       </p>
       <p className="made-with">
